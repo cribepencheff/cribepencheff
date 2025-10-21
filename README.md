@@ -48,7 +48,7 @@ Music has always been a big part of my life as a producer and music creator. I b
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cribepencheff&layout=compact&langs_count=5&theme=dark&show_icons=true&hide_border=false)](https://github.com/cribepencheff)
 
-# Contact Me
+# Get in touch
 
 I'm always on the lookout for exciting projects and new connections. Got a cool project or opportunity in mind? Get in touch!
 
