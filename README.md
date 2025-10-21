@@ -1,6 +1,6 @@
-##  Cristian 'Cribe' Pencheff 👋
+## Hi, I'm Cristian 'Cribe' Pencheff 👋
 
-*`Frontend developer & Fullstack JS | Music producer | Graphic designer`*
+*`Frontend developer & Fullstack JS | Graphic designer | Music producer`*
 
 **Frontend developer and graphic designer, specializing in React (NextJS), JavaScript (TypeScript) and UI/UX design. Expanding into fullstack JavaScript with Node.js, Express, MongoDB and Docker.** 
 
