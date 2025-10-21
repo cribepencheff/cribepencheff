@@ -50,7 +50,8 @@ Music has always been a big part of my life as a producer and music creator. I b
 
 ## Get in touch
 
-I'm always on the lookout for exciting projects and new connections. Got a cool project or opportunity in mind? Get in touch!
+I'm always on the lookout for exciting projects and new connections.  
+Got a cool project or opportunity in mind? Get in touch!
 
 [![linkedin](https://img.shields.io/badge/linkedin-2d333b?style=flat&logo=linkedin&logoColor=#2d333b)](https://www.linkedin.com/in/cristian-pencheff)
 [![Email](https://img.shields.io/badge/email-2d333b?style=flat&logo=mailboxdotorg&logoColor=white)](mailto:info@self-made.se)
