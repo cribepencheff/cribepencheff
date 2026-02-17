@@ -44,9 +44,9 @@ Music has always been a big part of my life as a producer and music creator. I b
 
 ## Stats
 
-[![CribePencheff's Stats](https://github-readme-stats.vercel.app/api?username=cribepencheff&theme=dark&show_icons=true&hide_border=false&count_private=true)](https://github.com/cribepencheff)
+[![CribePencheff's Stats](https://github-stats-extended.vercel.app/api?username=cribepencheff&theme=dark&show_icons=true&hide_border=false&count_private=true)](https://github.com/cribepencheff)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cribepencheff&layout=compact&langs_count=5&theme=dark&show_icons=true&hide_border=false)](https://github.com/cribepencheff)
+[![My GitHub Language Stats](https://github-stats-extended.vercel.app/api/top-langs/?username=cribepencheff&layout=compact&langs_count=5&theme=dark&show_icons=true&hide_border=false)](https://github.com/cribepencheff)
 
 ## Get in touch
 
