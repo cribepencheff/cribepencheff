@@ -2,7 +2,7 @@
 
 **`Frontend developer & Fullstack JS | Graphic designer | Music producer`**
 
-**Frontend developer and graphic designer, specializing in React (NextJS), JavaScript (TypeScript) and UI/UX design. Expanding into fullstack JavaScript with Node.js, Express, MongoDB and Docker.** 
+**Frontend-focused fullstack JavaScript developer and graphic designer, specializing in React (Next.js), TypeScript, Node.js, Express, MongoDB and Docker, with strong UX/UI fundamentals.** 
 
 Music has always been a big part of my life as a producer and music creator. I believe in incorporating creativity into everything I do, helping me find new solutions and ways to approach projects.
 
